@@ -47,17 +47,6 @@ My approach is simple: build fast, debug deeply, optimize relentlessly, and lear
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheOneWhoCreate&theme=github_dark"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheOneWhoCreate&theme=github_dark"/>
 </p>
-
----
-
-## 🏆 Badges
-
-<p align="center">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="95"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="95"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="95"/>
-</p>
-
 ---
 
 ## 🤝 Let's Connect
