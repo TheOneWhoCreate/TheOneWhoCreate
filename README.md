@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/atanu-rooj">
-<img src="[https://img.shields.io/badge/LinkedIn-Atanu%20Rooj-0A66C2](https://www.linkedin.com/in/atanu-rooj-5a186032a/)?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://www.linkedin.com/in/atanu-rooj-5a186032a/?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/TheOneWhoCreate">
 <img src="https://img.shields.io/badge/GitHub-TheOneWhoCreate-111111?style=flat-square&logo=github&logoColor=white"/>
